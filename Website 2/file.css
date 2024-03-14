@@ -1,0 +1,450 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    text-decoration: none !important;
+    color: inherit;
+}
+
+.main-parent {
+    width: 1000px;
+    height: 1045px;
+    margin: auto;
+    background-color: white;
+}
+
+.header {
+    width: 1000px;
+    height: 160px;
+    background-image: url(file:///D:/Download%202/Web%20by%20wscube/90f55a04-403d-489a-b43e-1eddf65f6f13-1693109603/website%202/images/headerbg.jpg);
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 173px;
+    height: 129px;
+    padding: 20px 0px 0px 38px;
+}
+
+.info {
+    background: url(file:///D:/Download%202/Web%20by%20wscube/90f55a04-403d-489a-b43e-1eddf65f6f13-1693109603/website%202/images/topcontactbg.png) no-repeat;
+    width: 215px;
+    float: right;
+    height: 104px;
+    margin-top: -125px;
+    margin-right: 25px;
+    padding-left: 18px;
+    padding-right: 54px;
+    padding-top: 12px;
+}
+
+.web-link {
+    width: 215px;
+    height: 33px;
+    font-family: "Myriad Pro";
+    font-size: 18px;
+    color: #fff;
+    font-weight: lighter;
+    border-bottom: 0.01px black dashed;
+}
+
+.pic-1 {
+    width: 22px;
+    height: 22px;
+    float: left;
+    margin: 6px 0px 0px 0px;
+}
+
+.web-text {
+    height: 22px;
+    margin: 7px 0px 0px 5px;
+    float: left;
+}
+
+.menu-box {
+    width: 1000px;
+    height: 46px;
+    background-color: #fff;
+    border-bottom: #fff 2px solid;
+    background: url(file:///D:/Download%202/Web%20by%20wscube/90f55a04-403d-489a-b43e-1eddf65f6f13-1693109603/website%202/images/menubg.jpg);
+}
+
+.menu-box1 {
+    float: left;
+    width: 71px;
+    height: 42px;
+    text-align: center;
+    list-style: none;
+    font-family: "Myriad Pro";
+    font-size: 18px;
+    color: #fff;
+    font-weight: lighter;
+    margin-top: 10px;
+
+}
+
+/* .menu-box1 :hover{
+    background:url(file:///D:/project/new%20web/Project%20of%20Wscube%20tech/Website%202/images/menubg_hover.jpg);
+} */
+.menu-box2 {
+    float: left;
+    width: 150px;
+    height: 42px;
+    margin-top: 10px;
+    text-align: left;
+    list-style: none;
+    font-family: "Myriad Pro";
+    font-size: 18px;
+    color: #fff;
+    font-weight: lighter;
+}
+
+.container {
+    width: 1000px;
+    height: 290px;
+
+    border-bottom: 3px #FFF solid;
+    background: #2b77a0;
+
+}
+
+.left-container {
+    background: #fff;
+    float: left;
+    width: 220px;
+    height: 228px;
+    margin: 14px 0px;
+    margin-left: -560px;
+    box-shadow: #246284 0px 0px 11px 7px;
+    padding: 17px;
+}
+
+.middle-container {
+    width: 0px;
+    height: 228px;
+    margin-left: -319px;
+    float: left;
+}
+
+.web-text2 {
+    margin-top: 16px;
+    color: #286f95;
+    font-size: 18px;
+    font-family: "Myriad Pro";
+    margin-left: 8px;
+    border-bottom: dotted 1px #cdcdcd;
+}
+
+.pic-1 {
+    float: left;
+    width: 20px;
+    height: 20px;
+    /* margin-top: 0px; */
+    margin-right: 5px;
+}
+
+.right-container {
+    float: left;
+    width: 690px;
+    height: 262px;
+    margin-top: 10px;
+    margin-left: 290px;
+}
+
+.content {
+    width: 1000px;
+    background-color: #fff;
+    height: 310px;
+}
+
+.left-content {
+    height: 280px;
+    width: 265px;
+    /* background-color: #eab2b2; */
+    float: left;
+}
+
+.company {
+    width: 270px;
+    height: 50px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.company-text {
+    float: left;
+    width: 112px;
+    height: 10px;
+    font-size: 18px;
+    color: #747773;
+    font-family: "Myriad Pro";
+    margin: 20px 10px 10px 30px;
+}
+
+.company-img {
+    float: right;
+    margin: 10px 10px 10px 10px;
+}
+
+.company2 {
+    width: 270px;
+    height: 90px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.company-img2 {
+    float: right;
+    margin: 20px -5px 0px 0px;
+}
+
+.pic-1-1 {
+    width: 22px;
+    height: 22px;
+    float: left;
+    margin: 12px 0px 0px 30px;
+}
+
+.web-text1-1 {
+    float: left;
+    height: 10px;
+    font-size: 18px;
+    color: #747773;
+    font-family: "Myriad Pro";
+    margin: 12px 0px 0px 10px;
+}
+
+.right-content2 {
+    /* background-color: rgb(240, 110, 110); */
+    width: 735px;
+    height: 270px;
+    float: left;
+    /* border-left: 2px solid #e0e0e0; */
+
+}
+
+.row1 {
+    /* width: 690px; */
+    height: 40px;
+    font-size: 20px;
+    color: #747773;
+    font-family: "Myriad Pro";
+    margin: 25px 0px 0px 45px;
+    border-bottom: 1px solid #e0e0e0;
+
+}
+
+.row1-1 {
+    font-size: 20px;
+    color: #747773;
+    height: 40px;
+    font-family: "Myriad Pro";
+    margin: 0px 0px 0px 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.row2 {
+    margin: 25px 0px 0px 45px;
+    width: 690px;
+    height: 100px;
+    font-size: 12px;
+    color: #747773;
+    font-family: "Myriad Pro";
+}
+
+.footer {
+    width: 1000px;
+    height: 200px;
+    background-image: url(file:///D:/project/new%20web/Project%20of%20Wscube%20tech/Website%202/images/footerbg.jpg);
+}
+
+.foot1 {
+    width: 325px;
+    height: 160px;
+    float: left;
+    margin-top: 20px;
+    ;
+    border-right: 1px solid #0f506c;
+}
+
+.quick {
+    color: #fff;
+    font-family: "Myriad Pro Light";
+    font-size: 18px;
+    border-bottom: 1px dotted #3287af;
+    width: 150px;
+    margin: 0px 0px 0px 25px;
+}
+
+.footer-point {
+    margin: 10px 10px 10px 18px;
+    width: 300px;
+    height: 140px;
+}
+
+.point-img {
+    float: left;
+    width: 16px;
+    height: 15px;
+    margin-right: 7px;
+}
+
+.point-text {
+    color: white;
+    font-family: "Myriad Pro";
+    font-family: "Myriad Pro Light";
+    font-size: 13px;
+}
+
+.point-1 {
+    width: 150px;
+    height: 36px;
+    float: left;
+    margin: -2px -3px -3px 0px
+}
+
+.text-location {
+    font-family: "Myriad Pro";
+    font-style: italic;
+    width: 286px;
+    height: 50px;
+    float: left;
+    font-size: 14px;
+    padding: 15px 0px;
+    padding-bottom: 20px;
+    color: #3aa4d2;
+    margin-left: 25px;
+    border-bottom: 1px solid #0d4964;
+    text-align: left;
+}
+
+.location-pic {
+    width: 18px;
+    height: 22px;
+    float: right;
+    margin: -2px 0px 0px 0px;
+}
+
+.follow {
+    color: #4cb8e8;
+    font-family: "Myriad Pro";
+    font-style: italic;
+    text-align: center;
+    font-size: 18px;
+    text-shadow: 1px 1px 15px #000;
+    width: 70px;
+    padding: 8px 10px;
+    float: left;
+    margin-left: 40px;
+    border-right: 1px solid #0d4964;
+}
+
+.social-logo {
+    background-image: url(file:///D:/project/new%20web/Project%20of%20Wscube%20tech/Website%202/images/my.png);
+    width: 160px;
+    height: 46px;
+    margin: 93px 0px 0px 150px;
+}
+
+.last {
+    background: #033a53;
+    width: 960px;
+    height: 5px;
+    margin: 0px auto;
+    padding: 15px 20px;
+    border-top: 1px dotted #3287af;
+    font-family: Arial;
+    font-size: 12px;
+    color: #fff;
+}
+
+.about {
+    width: 1000px;
+    height: 603px;
+    background-color: white;
+}
+
+.left-about {
+    float: left;
+    width: 300px;
+    height: 595px;
+    background-color: #2b77a0;
+    /* margin: -2px 117px 0px 0px; */
+}
+
+.right-about {
+    width: 690px;
+    height: 595px;
+    background-color: white;
+    margin: 5px 10px 10px 300px;
+}
+
+.textt {
+    background: #FFF;
+    float: left;
+    width: 95%;
+    color: #5b5b5b;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 20px;
+    margin: 10px 10px 10px 20px;
+}
+
+.listt {
+    color: #5b5b5b;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 15px 0px 0px 41px;
+}
+
+.gallery {
+    width: 675px;
+    height: 510px;
+    background: white;
+    float: left;
+    margin: 10px 0px 0px 13px;
+}
+
+.gallery-pic {
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px 10px 10px 10px;
+}
+
+.contact-text {
+    background: #FFF;
+    float: left;
+    width: 95%;
+    color: #5b5b5b;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 20px;
+    margin: 10px 10px 10px 20px;
+}
+
+.heading-1 {
+    margin: 9px 0px 25px 0px;
+    font-size: 13px;
+    /* float: left; */
+    color: #5b5b5b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+    background: #09F;
+    border: none;
+    color: #FFF;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 40px 0px 0px 25px;
+    float: left;
+
+}
